@@ -1,0 +1,20 @@
+{
+  "name": "シミュレーション計算",
+  "short_name": "Tシミュレータ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "         
+  "theme_color": "#3367D6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
